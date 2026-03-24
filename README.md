@@ -60,7 +60,7 @@ Implementation optimized for single-file deployment and educational clarity.
 
 ## Installation
 ```bash
-git clone https://github.com/username/nickgen-v4.git
+git clone https://github.com/Orange2-invalide/Nick-Generator-v4.0
 cd nickgen-v4
 pip install torch --index-url https://download.pytorch.org/whl/cu121
 python nickgen.py
